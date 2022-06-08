@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/Ssusoo">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Ssusoo&show_icons=true&include_all_commits=true&hide_border=true&&theme=dracula&show_icons=true" alt="SOKURI's github stats" />
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Ssusoo&show_icons=true&include_all_commits=true&hide_border=true&&theme=dracula&show_icons=true" alt="Ssusoo's github stats" />
 </a>
 
 <a href="https://github.com/Ssusoo">
