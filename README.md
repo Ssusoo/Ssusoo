@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssusoo&show_icons=true&theme=yeblu)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssusoo)](https://github.com/Ssusoo/github-readme-status)
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
   <img src="https://img.shields.io/badge/Ssusoo-000000?style=for-the-badge&logo=Bilibili&logoColor=00A1D6"/>
