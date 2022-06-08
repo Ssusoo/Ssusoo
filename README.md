@@ -23,7 +23,6 @@ Here are some ideas to get you started:
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssusoo&layout=compact&hide_border=true&theme=dracula&show_icons=true" />
 </a> 
 
-
 <a href="https://github.com/Ssusoo" target="_blank">
   <img src="https://img.shields.io/badge/Ssusoo-000000?style=for-the-badge&logo=Bilibili&logoColor=00A1D6"/>
 </a>
