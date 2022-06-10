@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=Quasar&logoColor=white">
 </div>
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+
