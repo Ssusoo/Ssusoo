@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssusoo&theme=dracula&show_icons=true)](https://github.com/Ssusoo/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssusoo&style=height:180px&theme=dracula&show_icons=true&layout=compact&hide_border=true)](https://github.com/Ssusoo/github-readme-stats)
 
 
-<a href="https://github.com/Ssusoo">
+<!-- <a href="https://github.com/Ssusoo">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssusoo&layout=compact&hide_border=true&theme=dracula&show_icons=true" />
-</a> 
+</a>  -->
 
 <div>
 <a href="https://github.com/Ssusoo" target="_blank">
