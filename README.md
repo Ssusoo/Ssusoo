@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=Quasar&logoColor=white">
-  <img src="https://img.shields.io/badge/Nuxt.js#00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Nuxt#00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white">
 </div>
 
 
